@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Minha Extensão",
+  "description": "Minha Primeira Extensão",
+  "author": "Tiago de Melo",
+  "permissions": ["activeTab" , "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+
+}
